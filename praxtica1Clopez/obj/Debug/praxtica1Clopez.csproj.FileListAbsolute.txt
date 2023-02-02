@@ -1,0 +1,8 @@
+C:\Users\USUARIO\Desktop\Progra ll\praxtica1Clopez\praxtica1Clopez\bin\Debug\praxtica1Clopez.exe.config
+C:\Users\USUARIO\Desktop\Progra ll\praxtica1Clopez\praxtica1Clopez\bin\Debug\praxtica1Clopez.exe
+C:\Users\USUARIO\Desktop\Progra ll\praxtica1Clopez\praxtica1Clopez\bin\Debug\praxtica1Clopez.pdb
+C:\Users\USUARIO\Desktop\Progra ll\praxtica1Clopez\praxtica1Clopez\obj\Debug\praxtica1Clopez.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Progra ll\praxtica1Clopez\praxtica1Clopez\obj\Debug\praxtica1Clopez.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Desktop\Progra ll\praxtica1Clopez\praxtica1Clopez\obj\Debug\praxtica1Clopez.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Progra ll\praxtica1Clopez\praxtica1Clopez\obj\Debug\praxtica1Clopez.exe
+C:\Users\USUARIO\Desktop\Progra ll\praxtica1Clopez\praxtica1Clopez\obj\Debug\praxtica1Clopez.pdb
